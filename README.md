@@ -1,6 +1,6 @@
 # FitHub Gym Website
 
-# Project Overview
+## Project Overview
 
 FitHub Gym Website is a responsive, one-page website built to promote FitHub, a fictional fitness center. Developed using only HTML, CSS, and JavaScript, it features a modern dark theme with orange accents, tailored for an Indian audience with trainer names and pricing in INR. The site includes a hero section, gym features, trainer profiles, membership plans, a contact form, and a footer with social media links.
 
